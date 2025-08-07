@@ -47,3 +47,8 @@ setuptools>=70.0.0 # Snyk vulnerability fix
 # mss  # screenshots
 # albumentations>=1.0.3
 # pycocotools>=2.0.6  # COCO mAP
+# --- VietOCR ---
+vietocr==0.3.13
+pytorch-lightning==1.9.0
+python-bidi==0.6.6
+pytesseract==0.3.13

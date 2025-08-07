@@ -1,7 +1,7 @@
 Datasets-Lisence-Plate/
 yolov5/
 venv/
-vietocr/
+
 __pycache__/
 *.onnx
 *.log
