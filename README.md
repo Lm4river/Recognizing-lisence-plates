@@ -1,6 +1,20 @@
 # My YOLOv5 Project
 
-This project uses YOLOv5 for object detection.
+Dự án nhận diện biển số xe được xây dựng dựa trên sự kết hợp của các công nghệ và thư viện mạnh mẽ trong lĩnh vực thị giác máy tính và xử lý ảnh:
+
+YOLOv5: Mô hình phát hiện đối tượng thời gian thực, dùng để xác định vị trí biển số xe trong ảnh.
+
+VietOCR: Thư viện OCR tiếng Việt dựa trên Transformer, sử dụng để nhận dạng ký tự từ ảnh biển số đã được cắt.
+
+PyTorch: Framework deep learning phục vụ huấn luyện và triển khai mô hình YOLOv5 và VietOCR.
+
+OpenCV: Xử lý ảnh, tiền xử lý và trích xuất vùng biển số từ ảnh gốc.
+
+Pillow (PIL): Hỗ trợ đọc, ghi và chuyển đổi định dạng ảnh.
+
+Tkinter: Xây dựng giao diện người dùng (GUI) để tải ảnh, hiển thị kết quả phát hiện và nhận dạng.
+
+
 
 # Requirements
 
@@ -31,3 +45,5 @@ mkdir vietocr
 Download qua đường link :"https://drive.google.com/uc?id=1bTInWz4nI-To0skD1vSzRqXyW_sARgBp" và move vào trong thư mục vietocr vừa tạo
 
 5. Run file:  GUI.py
+
+6. Sử dụng ảnh trong thư mục test để kiểm nghiệm kết quả 
