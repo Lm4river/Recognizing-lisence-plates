@@ -26,7 +26,7 @@ Tkinter: Xây dựng giao diện người dùng (GUI) để tải ảnh, hiển 
 
 2. Cài đặt môi trường :
 
- ```python python -m venv venv\Scripts\activate  ``` 
+  <pre> ```bash -m venv venv\Scripts\activate ``` </pre>
 
     Install dependencies:
     - pip install -r requirements.txt
