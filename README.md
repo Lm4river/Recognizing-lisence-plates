@@ -30,8 +30,6 @@ Tkinter: Xây dựng giao diện người dùng (GUI) để tải ảnh, hiển 
 
     - venv\Scripts\activate  
 
-Install dependencies:
-
     - pip install -r requirements.txt
 
 3. Clone YOLOv5:  - git clone https://github.com/ultralytics/yolov5.git
