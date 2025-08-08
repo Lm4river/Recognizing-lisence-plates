@@ -32,7 +32,7 @@ Tkinter: Xây dựng giao diện người dùng (GUI) để tải ảnh, hiển 
 
     - pip install -r requirements.txt
 
-3. Clone YOLOv5:  - git clone https://github.com/ultralytics/yolov5.git
+3. Clone YOLOv5:     git clone https://github.com/ultralytics/yolov5.git
 
 4. Tạo folder vietocr/(cùng cấp với folder yolov5/) :
 
