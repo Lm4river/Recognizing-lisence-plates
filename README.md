@@ -25,8 +25,9 @@ Tkinter: Xây dựng giao diện người dùng (GUI) để tải ảnh, hiển 
 1. Clone the repo:  git clone https://github.com/Lm4river/Recognizing-lisence-plates.git 
 
 2. Cài đặt môi trường :
-
-  <pre> ```bash -m venv venv\Scripts\activate ``` </pre>
+<pre> ```bash python -m venv venv\Scripts\activate ``` </pre>
+    - python -m venv venv
+    - venv\Scripts\activate  
 
     Install dependencies:
     - pip install -r requirements.txt
